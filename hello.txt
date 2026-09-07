@@ -1,3 +1,4 @@
 Hello first time learning git 
 This is so comfusing and frustatring
 I gonna lose my mid soon for sure 
+this line should not have been committed
