@@ -1,1 +1,2 @@
 Hello first time learning git 
+This is so comfusing and frustatring
