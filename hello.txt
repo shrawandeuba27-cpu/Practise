@@ -1,3 +1,6 @@
 Hello first time learning git 
 This is so comfusing and frustatring
 I gonna lose my mid soon for sure 
+
+
+it is edited from github.
